@@ -1,3 +1,3 @@
-module tjg.cn/geekbang01
+module wqhn.cn/geekbang01
 
 go 1.17
